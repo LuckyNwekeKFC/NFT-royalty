@@ -1,4 +1,4 @@
-## Note that this code is for educational purposes and I will liable for any losses. You can contact a professional developer like me for a wholesome contract for business application.
+## Note that this code is for educational purposes and I will not be liable for any losses. You can contact a professional developer like me for a wholesome contract for business application.
 
 This contract is a marketplace for NFTs that allows creators to set royalties on their NFTs. It inherits from the ReentrancyGuard contract, which prevents the contract from being called recursively. It also inherits from the ERC2981 contract, which allows the contract to calculate and distribute royalties on the sale of an NFT.
 
